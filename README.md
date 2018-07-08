@@ -5,7 +5,9 @@ The Goal is to get in touch with Jasmin - A testing framework for Javascript.
 With writing the desired tests, we should learn test-driven development.
 
 # How to use this repository
-Clone this repository or check out the demo
+Clone this repository and open the index.html in your browser
+
+Check out the demo https://leisa218.github.io/feedreader-app/.
 
 # Tests written in this App
 1. Test that loops through each feed in the `allFeeds` object and ensures it has a URL defined and that the URL is not empty.
